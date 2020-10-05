@@ -103,17 +103,16 @@
               </div>
             </div>
           </div>
-
-
-          <div class="col-lg-4 col-md-6 mb-4">
+		  
+		  <div class="col-lg-4 col-md-6 mb-4">
             <div class="card h-100">
-              <a href="produk/ninja-vs-monster"><img class="card-img-top" src="https://i.postimg.cc/6qMC14kn/image.png" alt=""></a>
+              <a href="produk/sekolah-preman"><img class="card-img-top" src="https://i.postimg.cc/rFMVyp06/image.png" alt=""></a>
               <div class="card-body">
                 <h4 class="card-title">
-                  <a href="produk/ninja-vs-monster">Ninja VS Monster</a>
+                  <a href="produk/sekolah-preman">Sekolah Preman (Promo)</a>
                 </h4>
-                <h5>RP 50.000</h5>
-                <p class="card-text">Seorang ninja mencoba melarikan diri dari kejaran monster yang mencoba memp*rk*s*nya!</p>
+                <h5>RP 30.000</h5>
+                <p class="card-text">Gadis pemberani mencoba menyelamatkan temannya dari gang penculik dan p*m*rk*s*! Bantu gadis pemberani ini melawan para pereman.</p>
               </div>
               <div class="card-footer">
                 <small class="text-muted">&#9733; &#9733; &#9733; &#9733; &#9734;</small>
