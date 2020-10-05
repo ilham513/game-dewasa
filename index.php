@@ -90,7 +90,7 @@
 
           <div class="col-lg-4 col-md-6 mb-4">
             <div class="card h-100">
-              <a href="produk/ninja-vs-monster"><img class="card-img-top" src="https://lh6.googleusercontent.com/PuLfZ_UlZ5jvvxz0zTYUlwcVxQM-N3Q0_LRNRxbrx8NZ33GosbT1thFH0MGDP9Ziw7f3qT3Gf2X_n4YqDRGKEDqVcl77Mexs7l9OehN0gMKyDlA3deE=w1280" alt=""></a>
+              <a href="produk/ninja-vs-monster"><img class="card-img-top" src="https://i.postimg.cc/6qMC14kn/image.png" alt=""></a>
               <div class="card-body">
                 <h4 class="card-title">
                   <a href="produk/ninja-vs-monster">Ninja VS Monster</a>
@@ -107,7 +107,7 @@
 
           <div class="col-lg-4 col-md-6 mb-4">
             <div class="card h-100">
-              <a href="produk/ninja-vs-monster"><img class="card-img-top" src="https://lh6.googleusercontent.com/PuLfZ_UlZ5jvvxz0zTYUlwcVxQM-N3Q0_LRNRxbrx8NZ33GosbT1thFH0MGDP9Ziw7f3qT3Gf2X_n4YqDRGKEDqVcl77Mexs7l9OehN0gMKyDlA3deE=w1280" alt=""></a>
+              <a href="produk/ninja-vs-monster"><img class="card-img-top" src="https://i.postimg.cc/6qMC14kn/image.png" alt=""></a>
               <div class="card-body">
                 <h4 class="card-title">
                   <a href="produk/ninja-vs-monster">Ninja VS Monster</a>
@@ -124,7 +124,7 @@
 
           <div class="col-lg-4 col-md-6 mb-4">
             <div class="card h-100">
-              <a href="produk/ninja-vs-monster"><img class="card-img-top" src="https://lh6.googleusercontent.com/PuLfZ_UlZ5jvvxz0zTYUlwcVxQM-N3Q0_LRNRxbrx8NZ33GosbT1thFH0MGDP9Ziw7f3qT3Gf2X_n4YqDRGKEDqVcl77Mexs7l9OehN0gMKyDlA3deE=w1280" alt=""></a>
+              <a href="produk/ninja-vs-monster"><img class="card-img-top" src="https://i.postimg.cc/6qMC14kn/image.png" alt=""></a>
               <div class="card-body">
                 <h4 class="card-title">
                   <a href="produk/ninja-vs-monster">Ninja VS Monster</a>
