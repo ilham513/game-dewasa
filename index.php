@@ -109,7 +109,7 @@
               <a href="produk/sekolah-preman"><img class="card-img-top" src="https://i.postimg.cc/rFMVyp06/image.png" alt=""></a>
               <div class="card-body">
                 <h4 class="card-title">
-                  <a href="produk/sekolah-preman">Sekolah Preman (Promo)</a>
+                  <a href="produk/sekolah-preman">Sekolah Preman</a>
                 </h4>
                 <h5>RP 30.000</h5>
                 <p class="card-text">Gadis pemberani mencoba menyelamatkan temannya dari gang penculik dan p*m*rk*s*! Bantu gadis pemberani ini melawan para pereman.</p>
