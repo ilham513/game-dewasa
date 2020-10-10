@@ -95,7 +95,7 @@
                 <h4 class="card-title">
                   <a href="produk/ninja-vs-monster">Ninja VS Monster</a>
                 </h4>
-                <h5>RP 50.000</h5>
+                <h5>RP 100.000</h5>
                 <p class="card-text">Seorang ninja mencoba melarikan diri dari kejaran monster yang mencoba memp*rk*s*nya!</p>
               </div>
               <div class="card-footer">
@@ -111,7 +111,7 @@
                 <h4 class="card-title">
                   <a href="produk/sekolah-preman">Sekolah Preman</a>
                 </h4>
-                <h5>RP 30.000</h5>
+                <h5>RP 70.000</h5>
                 <p class="card-text">Gadis pemberani mencoba menyelamatkan temannya dari gang penculik dan p*m*rk*s*! Bantu gadis pemberani ini melawan para pereman.</p>
               </div>
               <div class="card-footer">
