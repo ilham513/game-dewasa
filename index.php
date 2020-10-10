@@ -120,7 +120,7 @@
             </div>
           </div>
 
-
+<!-- disable produk 3
           <div class="col-lg-4 col-md-6 mb-4">
             <div class="card h-100">
               <a href="produk/ninja-vs-monster"><img class="card-img-top" src="https://i.postimg.cc/6qMC14kn/image.png" alt=""></a>
@@ -136,6 +136,7 @@
               </div>
             </div>
           </div>
+-->
 
 	  </div>
         <!-- END row -->
